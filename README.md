@@ -28,6 +28,6 @@ Op Amp Discovery:
 - Description, Schematics, BOM
 - Proto-Area Schematic, Bonus Sections
 
-## Example Circuit - Guided Learning (PDF)
+## Example Circuits - Guided Learning (PDF)
 - A Guided tour of classic op amp configs
 - Define It, Design It, Build It, Test & Learn It
