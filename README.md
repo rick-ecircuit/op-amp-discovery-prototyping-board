@@ -18,9 +18,9 @@ Standard breadboards can be frustrating:
 - Requires expensive, bulky supplies and signal generators
 
 Op Amp Discovery:
-- Install components in solderless headers.
-- PCB interconnects for versatile circuit options.
-- Components arranged like schematic to reinforce learning.
+- PCB provides solid, convenient connections, supply and signal source.
+- Components easily installed on solderless headers.
+- Layout arranged like schematic to reinforce learning.
 - Minimal cost and PCB space - an affordable & portable learn-anywhere lab.
 - Learning possible with a $10 DMM only.
 
