@@ -1,7 +1,7 @@
 # Op Amp Discovery Board
 The Op Amp Discovery Board allows students, engineers and DIYers to quickly prototype and experiment with a variety of op amp configurations. Get circuits up and running fast!
 
-- Easy-to-use hybrid (breadboard / PCB).
+- Easy-to-use hybrid (solderless breadboard / PCB).
 - Explore 20+ classic op amp circuits
 - Create your own circuits
 - Supply Rails & Signal Source Included on-board
@@ -18,6 +18,7 @@ Standard breadboards can be frustrating:
 - Requires expensive, bulky supplies and signal generators
 
 Op Amp Discovery:
+- Install components in solderless headers.
 - PCB interconnects for versatile circuit options.
 - Components arranged like schematic to reinforce learning.
 - Minimal cost and PCB space - an affordable & portable learn-anywhere lab.
@@ -29,5 +30,5 @@ Op Amp Discovery:
 - Proto-Area Schematic, Bonus Sections
 
 ## Example Circuits - Guided Learning (PDF)
-- A Guided tour of classic op amp configs
+- Guided examples of classic op amp configs
 - Define It, Design It, Build It, Test & Learn It
