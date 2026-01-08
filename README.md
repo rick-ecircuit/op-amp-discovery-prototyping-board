@@ -1,5 +1,5 @@
 # Op Amp Discovery Board
-The Op Amp Discovery Board allows students, engineers and DIYers to quickly prototype and experiment with a variety of op amp configurations. Easy-to-use breadboard &amp; PCB hybrid! 
+The Op Amp Discovery Board allows students, engineers and DIYers to quickly prototype and experiment with a variety of op amp configurations. Get circuits up and running fast!
 
 - Easy-to-use hybrid (breadboard / PCB).
 - Explore 20+ classic op amp circuits
@@ -18,8 +18,8 @@ Standard breadboards can be frustrating:
 - Requires expensive, bulky supplies and signal generators
 
 Op Amp Discovery:
-- Get circuits up and running fast!
-- PCB arranged like schematic to reinforce learning.
+- PCB interconnects for versatile circuit options.
+- Components arranged like schematic to reinforce learning.
 - Minimal cost and PCB space - an affordable & portable learn-anywhere lab.
 - Learning possible with a $10 DMM only.
 
