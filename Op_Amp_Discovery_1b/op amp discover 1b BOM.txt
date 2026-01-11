@@ -1,0 +1,23 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+C1,C2	1uF	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia	2	
+C3	1nF	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia	1	
+C4,C5	10uF	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia	2	
+C6,R6	Short	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia,A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	2	
+C7,R4	Open	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia,A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	2	
+C10,C11,C12	0.1uF	~	A_Custom_Library:C_Disc_D3.0mm_W1.6mm_P2.50mm_wider_center_dia	3	
+D1,D2,D4	1N5711	~	A_Custom_Library:D_DO-34_SOD68_P7.62mm_Horizontal	3	
+D3	LED	~	LED_THT:LED_D3.0mm	1	
+J1	Screw_Terminal_01x02	~	TerminalBlock:TerminalBlock_bornier-2_P5.08mm	1	
+J2	Conn_01x03_Pin	~	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	1	
+J3,J4,J5,J6,J7,J8	Conn_01x07	~	Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical	6	
+J9	Conn_01x02_Pin	~	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	1	
+J11	Conn_01x04	~	Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical	1	
+JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10	Jumper_2_Small_Open	~	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	9	
+R1,R7	1k	~	A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	2	
+R2	3.01k	~	A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	1	
+R3	200k	~	A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	1	
+R5	3.3k	~	A_Custom_Library:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal-bigger_hole	1	
+TP1,TP2,TP3,TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11	TestPoint	~	A_Custom_Library:TestPoint_THTPad_D2.0mm_Drill1.0mm_bigger,TestPoint:TestPoint_Keystone_5005-5009_Compact	11	
+U1	LM741	http://www.ti.com/lit/ds/symlink/lm741.pdf	Package_DIP:DIP-8_W7.62mm	1	
+U2	LM317L_TO92	http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf	Package_TO_SOT_THT:TO-92_Inline_Wide	1	
+U3	74HC14	http://www.ti.com/lit/gpn/sn74HC14	Package_DIP:DIP-14_W7.62mm	1	
