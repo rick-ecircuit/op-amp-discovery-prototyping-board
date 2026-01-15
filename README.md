@@ -19,7 +19,7 @@ Standard breadboards can be frustrating:
 - Requires expensive, bulky supplies and signal generators
 
 Op Amp Discovery:
-- PCB provides solid, convenient connections, power and signal source.
+- PCB provides solid, veratile connections, power and a signal source.
 - Components easily installed on solderless headers.
 - Layout arranged like schematic to reinforce learning.
 - Minimal cost and PCB space - an affordable & portable learn-anywhere lab.
@@ -33,3 +33,6 @@ Op Amp Discovery:
 ## Example Circuits - Guided Learning (PDF)
 - Guided examples of classic op amp circuits
 - Define It, Design It, Build It, Test & Learn It
+
+## Feedback, Comments, Questions?
+Share your thoughts on the [eCircuit Center](https://ecircuitcenter.com/op-amp-discovery/form/feedback1.html) feedback form.
