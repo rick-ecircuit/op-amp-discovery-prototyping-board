@@ -1,6 +1,6 @@
 # Op Amp Discovery Board
 ## Fast & Veratile Prototyping and Experimenter Board
-The Op Amp Discovery Board allows students, engineers and DIYers to quickly prototype and experiment with a variety of op amp configurations. Get circuits up and running fast!
+The Op Amp Discovery Board allows students, engineers and DIYers to quickly prototype and experiment with a variety of op amp configurations. Get circuits up and running fast! Serves as a Trainer Board as well as an Evaluation Module.
 
 - Easy-to-use hybrid (solderless breadboard + PCB).
 - Explore 20+ classic op amp circuits
